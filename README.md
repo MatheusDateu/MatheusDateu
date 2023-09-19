@@ -8,7 +8,28 @@ I am currently in my final year pursuing a Bachelor's degree in Analysis and Sys
 
 - [WebSite503020BlazorWASM]([link-para-o-projeto-1](https://github.com/MatheusDateu/WebSite503020BlazorWASM)): An online platform developed to facilitate the management and organization of personal finances in adherence to the 50-30-20 budgeting framework, allocating funds as follows: 50% for expenses, 30% for leisure, and 20% for savings and investments.
 
-![FinalVideo-503020WebSiteBWASM](https://github.com/MatheusDateu/MatheusDateu/assets/84162395/7fbff39f-a255-4376-87fe-c35f181d9875)
+### Demo:
+<p align="center">
+  <img src="https://github.com/MatheusDateu/MatheusDateu/assets/84162395/7fbff39f-a255-4376-87fe-c35f181d9875" width="524">
+</p>
+
+### Pictures
+
+#### Login Page:
+<p align="center">
+  <img src="https://github.com/MatheusDateu/MatheusDateu/assets/84162395/ad29c24e-1237-4c8b-9f50-1d22af421409" width="900">
+</p>
+
+#### Main Page:
+<p align="center">
+  <img src="https://github.com/MatheusDateu/MatheusDateu/assets/84162395/8bc95e9b-1f73-40f0-ab1a-6c05a1e4c77e" width="900">
+</p>
+
+#### Main Page When Type Net Income Value:
+<p align="center">
+  <img src="https://github.com/MatheusDateu/MatheusDateu/assets/84162395/991136cf-04cf-4aca-8e91-f892ae5478ce" width="900">
+</p>
+
 
 
 ## Skills
