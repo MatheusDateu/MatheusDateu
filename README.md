@@ -10,14 +10,14 @@ I am currently in my final year pursuing a Bachelor's degree in Analysis and Sys
 
 ### Demo:
 <p align="center">
-  <img src="https://github.com/MatheusDateu/MatheusDateu/assets/84162395/7fbff39f-a255-4376-87fe-c35f181d9875" width="524">
+  <img src="https://github.com/MatheusDateu/MatheusDateu/assets/84162395/ad29c24e-1237-4c8b-9f50-1d22af421409" width="900">
 </p>
 
 ### Pictures
 
 #### Login Page:
 <p align="center">
-  <img src="https://github.com/MatheusDateu/MatheusDateu/assets/84162395/ad29c24e-1237-4c8b-9f50-1d22af421409" width="900">
+  <img src="https://github.com/MatheusDateu/MatheusDateu/assets/84162395/c3c8004b-185a-4323-97b7-5ae32efbe484" width="900">
 </p>
 
 #### Main Page:
