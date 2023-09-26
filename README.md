@@ -2,7 +2,7 @@
 
 ## 💻 Fullstack Dotnet and RPA Developer
 
-I am currently in my final year pursuing a Bachelor's degree in Analysis and Systems Development at IFRR. Since 2018, I have been deeply immersed in Dotnet and automation technologies. My aspiration is to evolve into an exceptional solutions developer with the capability to tackle any technology or challenge. While I have a strong proficiency in C# and Dotnet, I also have prior experience working with Java. Additionally, I have undertaken some studies in Python, specifically for automation tasks, including RPA, Machine Learning, and Artificial Intelligence. I am also well-versed in JavaScript, both in Node.js and React.
+I am currently in my final year pursuing a Bachelor's degree in Analysis and Systems Development at IFRR. Since 2018, I have been deeply immersed in Dotnet and automation technologies. My aspiration is to evolve into an exceptional solutions developer with the capability to tackle any technology or challenge. While I have a strong proficiency in C# and Dotnet, I also have prior experience working with Java. Additionally, I have undertaken some studies in Python, specifically for automation tasks, including RPA, Machine Learning, and Artificial Intelligence. I am also well-versed in Typescript, Angular, JavaScript, both in Node.js and React.
 
 ## 🌟 Featured Project
 
@@ -60,6 +60,8 @@ I am currently in my final year pursuing a Bachelor's degree in Analysis and Sys
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
