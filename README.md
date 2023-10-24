@@ -79,3 +79,4 @@ I am currently in my final year pursuing a Bachelor's degree in Analysis and Sys
 
 - LinkedIn: [Matheus Delmondes](https://www.linkedin.com/in/matheus-delmondes-7260b6221/)
 - Email: mdelmondes5@gmail.com
+- Instagram: [@dev_MatheusDelmondes](https://www.instagram.com/dev_matheusdelmondes/)
