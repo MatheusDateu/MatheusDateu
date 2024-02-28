@@ -1,6 +1,6 @@
 # 🧑 Matheus Delmondes da Conceição
 
-## 💻 Fullstack Dotnet and RPA Developer
+## 💻 Fullstack and RPA Developer
 
 I am currently in my final year pursuing a Bachelor's degree in Analysis and Systems Development at IFRR. Since 2018, I have been deeply immersed in Dotnet and automation technologies. My aspiration is to evolve into an exceptional solutions developer with the capability to tackle any technology or challenge. While I have a strong proficiency in C# and Dotnet, I also have prior experience working with Java. Additionally, I have undertaken some studies in Python, specifically for automation tasks, including RPA, Machine Learning, and Artificial Intelligence. I am also well-versed in Typescript, Angular, JavaScript, both in Node.js and React.
 
