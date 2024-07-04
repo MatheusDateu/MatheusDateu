@@ -6,7 +6,7 @@ I am currently in my final year pursuing a Bachelor's degree in Analysis and Sys
 
 ## 🌟 Featured Project
 
-- [Portfolio - MatheusDateu - Blazor WASM]()
+- [Portfolio - MatheusDateu - Blazor WASM](https://matheusdateu.github.io/blazor-pwa-portfolio-matheusdateu/)
 
 ## 🛠 Skills
 
