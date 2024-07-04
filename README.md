@@ -1,14 +1,35 @@
 # 🧑 Matheus Delmondes da Conceição
 
-## 💻 Software Engineer and RPA Developer
+## 💻 Software Engineer || Engenheiro de Software
 
-I am currently in my final year pursuing a Bachelor's degree in Analysis and Systems Development at IFRR. Since 2018, I have been deeply immersed in Dotnet and automation technologies. My aspiration is to evolve into an exceptional solutions developer with the capability to tackle any technology or challenge. While I have a strong proficiency in C# and Dotnet, I also have prior experience working with Java. Additionally, I have undertaken some studies in Python, specifically for automation tasks, including RPA, Machine Learning, and Artificial Intelligence. I am also well-versed in Typescript, Angular, JavaScript, both in Node.js and React.
+---
 
-## 🌟 Featured Project
+### English
+
+
+I am a highly qualified software engineer with a distinguished record of substantial contributions to every project and team I have been a part of since 2018. My primary expertise is in Dotnet technologies and automation, where I excel in C# and Dotnet, and I possess extensive professional experience with Java. While my engagements with Python, TypeScript, and JavaScript (including frameworks such as Angular and Node.js) have been primarily self-initiated, I am adept at effectively leveraging these technologies when required.
+
+Currently, I am in the final year of my Bachelor's degree in Systems Analysis and Development at IFRR, augmenting my extensive hands-on experience with a robust academic foundation.
+
+My dedication to technical excellence and innovation is evidenced by my ability to tackle complex problems and deliver high-quality solutions. I possess exceptional communication and teamwork skills, which enable me to collaborate effectively with colleagues and stakeholders. With a results-oriented mindset and a continuous passion for learning and development, I am always seeking new challenges that allow me to grow professionally and contribute significantly to the success of organisations.
+
+---
+
+### Português
+
+Sou um engenheiro de software altamente qualificado, com um histórico comprovado de contribuições significativas para todos os projetos e equipes dos quais fiz parte desde 2018. Minha principal expertise reside em tecnologias Dotnet e automação, com forte proficiência em C# e Dotnet, além de vasta experiência profissional com Java. Embora minhas interações com Python, TypeScript e JavaScript, incluindo frameworks como Angular e Node.js, tenham sido principalmente através de estudos autodirigidos, sou capaz de utilizar essas tecnologias de forma eficaz quando necessário.
+
+Atualmente, estou no último ano do Bacharelado em Análise e Desenvolvimento de Sistemas no IFRR, complementando minha extensa experiência prática com uma sólida base acadêmica.
+
+Meu compromisso com a excelência técnica e inovação é refletido na minha capacidade de resolver problemas complexos e entregar soluções de alta qualidade. Possuo habilidades excepcionais de comunicação e trabalho em equipe, o que me permite colaborar eficazmente com colegas e stakeholders. Com um perfil orientado a resultados e uma paixão contínua por aprender e evoluir, estou sempre em busca de novos desafios que me permitam crescer como profissional e contribuir significativamente para o sucesso das organizações.
+
+Meu compromisso com a excelência técnica e a inovação é refletido na minha capacidade de resolver problemas complexos e entregar soluções de alta qualidade. Tenho habilidades de comunicação e trabalho em equipe excepcionais, que me permitem colaborar efetivamente com colegas e stakeholders. Com um perfil focado em resultados e uma paixão contínua por aprender e evoluir, estou sempre em busca de novos desafios que me permitam crescer como profissional e contribuir de forma significativa para o sucesso das organizações.
+
+## 🌟 Featured Project || Projeto em Destaque
 
 - [Portfolio - MatheusDateu - Blazor WASM](https://matheusdateu.github.io/blazor-pwa-portfolio-matheusdateu/)
 
-## 🛠 Skills
+## 🛠 Skills || Habilidades
 
 - C#
 - Dotnet
@@ -17,7 +38,7 @@ I am currently in my final year pursuing a Bachelor's degree in Analysis and Sys
 - Python
 - JavaScript
 
-## 🎨 Tecnologies
+## 🎨 Tecnologies || Tecnologias
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
@@ -60,7 +81,7 @@ I am currently in my final year pursuing a Bachelor's degree in Analysis and Sys
 ![XHTML](https://img.shields.io/badge/XHTML-1660A7?style=for-the-badge&logo=xhtml&logoColor=white)
 
 
-## 📞 Contact
+## 📞 Contact || Contato
 
 - LinkedIn: [Matheus Delmondes](https://www.linkedin.com/in/matheus-delmondes-7260b6221/)
 - Email: mdelmondes5@gmail.com
