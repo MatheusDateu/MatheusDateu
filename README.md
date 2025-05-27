@@ -37,6 +37,7 @@ Meu compromisso com a excelência técnica e a inovação é refletido na minha 
 - Java
 - Python
 - JavaScript
+- TypeScript
 
 ## 🎨 Tecnologies || Tecnologias
 
