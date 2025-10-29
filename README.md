@@ -85,5 +85,5 @@ Meu compromisso com a excelência técnica e a inovação é refletido na minha 
 ## 📞 Contact || Contato
 
 - LinkedIn: [Matheus Delmondes](https://www.linkedin.com/in/matheus-delmondes-7260b6221/)
-- Email: mdelmondes5@gmail.com
+- Email: mdelmondes5@outlook.com
 - Instagram: [@dev_MatheusDelmondes](https://www.instagram.com/dev_matheusdelmondes/)
